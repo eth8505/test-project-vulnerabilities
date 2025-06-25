@@ -37,6 +37,4 @@ echo file_get_contents($_GET['file']);
 ?>
 
 <script
-    src="https://code.jquery.com/jquery-1.12.4.js"
-    integrity="sha256-Qw82+bXyGq6MydymqBxNPYTaUXXq7c8v3CwiYwLLNXU="
-    crossorigin="anonymous"></script>
+    src="https://code.jquery.com/jquery-1.11.1.js"></script>
