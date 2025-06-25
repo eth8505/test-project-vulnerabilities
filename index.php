@@ -37,4 +37,4 @@ echo file_get_contents($_GET['file']);
 ?>
 
 <script
-    src="https://code.jquery.com/jquery-1.11.1.js"></script>
+    src="/jquery-1.11.1.js"></script>
